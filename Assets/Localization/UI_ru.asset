@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_ru
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: 6fb8b5406cea24613803a648ad8cc168, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 915363848192
+    m_Localized: "\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435
+      \u043A \u0441\u0435\u0440\u0432\u0435\u0440\u0430\u043C..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142379129495552
+    m_Localized: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142433256988672
+    m_Localized: "\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0438\u0442\u044C\u0441\u044F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142488001044480
+    m_Localized: "\u0421\u043E\u0437\u0434\u0430\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142512516751360
+    m_Localized: "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043A\u043E\u0434"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713779682729984
+    m_Localized: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713783281442816
+    m_Localized: "\u0418\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713784699117568
+    m_Localized: "\u041C\u0430\u0441\u0442\u0435\u0440\u0441\u043A\u0430\u044F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713785978380288
+    m_Localized: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725228358459392
+    m_Localized: "\u041E\u0431\u0449\u0438\u0435"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725230967316480
+    m_Localized: "\u0412\u0438\u0434\u0435\u043E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725232091389952
+    m_Localized: "\u0410\u0443\u0434\u0438\u043E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726783262449664
+    m_Localized: ENG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727103891824640
+    m_Localized: "\u0421\u043C\u0435\u043D\u0430 \u044F\u0437\u044B\u043A\u0430"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730046682619904
+    m_Localized: "\u041F\u043E\u043B\u043D\u043E\u044D\u043A\u0440\u0430\u043D\u043D\u044B\u0439
+      \u0440\u0435\u0436\u0438\u043C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763083516534784
+    m_Localized: "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098989947576320
+    m_Localized: "\u0413\u0440\u043E\u043C\u043A\u043E\u0441\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099048114184192
+    m_Localized: "\u041C\u0443\u0437\u044B\u043A\u0430"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099083384086528
+    m_Localized: "\u042D\u0444\u0444\u0435\u043A\u0442\u044B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478009272918016
+    m_Localized: "\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478801199456256
+    m_Localized: "\u041D\u0438\u043A\u043D\u0435\u0439\u043C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486270634123264
+    m_Localized: "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561157042167808
+    m_Localized: "\u041F\u0440\u043E\u043C\u043E\u043A\u043E\u0434"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561949312638976
+    m_Localized: "\u041F\u0440\u0438\u043C\u0435\u043D\u0438\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261952
+    m_Localized: "T \u2014 \u0427\u0430\u0442"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261953
+    m_Localized: "\u041A\u043E\u0434 \u043A\u043E\u043C\u043D\u0430\u0442\u044B:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261954
+    m_Localized: Аккаунт
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261955
+    m_Localized: Логин
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261956
+    m_Localized: Пароль
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261957
+    m_Localized: Войти
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261958
+    m_Localized: Регистрация
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261959
+    m_Localized: Выйти
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261960
+    m_Localized: Вход...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261961
+    m_Localized: Регистрация...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261962
+    m_Localized: Аккаунт создан
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261963
+    m_Localized: Вход выполнен
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261964
+    m_Localized: Сервер не вернул сессию
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261965
+    m_Localized: AccountLoginUI не настроен
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261966
+    m_Localized: Логин минимум 3 символа
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261967
+    m_Localized: Пароль минимум 6 символов
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261968
+    m_Localized: Ошибка сервера
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261969
+    m_Localized: Аккаунт уже существует
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261970
+    m_Localized: Аккаунт не найден
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261971
+    m_Localized: Неверный пароль
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261972
+    m_Localized: Сессия истекла
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261973
+    m_Localized: Уже использован
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261974
+    m_Localized: +1000 монет!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261975
+    m_Localized: Неверный код
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261976
+    m_Localized: Выбран
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261977
+    m_Localized: Выбрать
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261978
+    m_Localized: Цена
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261979
+    m_Localized: Куплено
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261980
+    m_Localized: Неизвестно
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261981
+    m_Localized: Закрыть
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261982
+    m_Localized: Скин {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261983
+    m_Localized: Нет подключения
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261984
+    m_Localized: Подключено
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261985
+    m_Localized: Ошибка подключения
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261986
+    m_Localized: Нет комнаты.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261987
+    m_Localized: Купить
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261988
+    m_Localized: Гость
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261989
+    m_Localized: Мастерская скинов
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261990
+    m_Localized: Выбери три цвета, посмотри превью и создай скин для аккаунта.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261991
+    m_Localized: Тело 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261992
+    m_Localized: Тело 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261993
+    m_Localized: Верх
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261994
+    m_Localized: Создать - {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261995
+    m_Localized: Сохранить цвета
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261996
+    m_Localized: Не хватает монет
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261997
+    m_Localized: Скин создан
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261998
+    m_Localized: Скин сохранён
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261999
+    m_Localized: Скин выбран
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262000
+    m_Localized: Скин из мастерской
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262001
+    m_Localized: Пауза
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262002
+    m_Localized: Продолжить
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262003
+    m_Localized: В меню
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,60 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE/editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash/build artifacts
+sysinfo.txt
+*.stackdump
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+*_BurstDebugInformation_DoNotShip/
+*DoNotShip*/
+
+# Local/generated editor data
+Assets/_Recovery/
+GeneratedAssets/
+
+# Local backend database/secrets
+Backend/accounts.json
+Backend/*.env
+.env
+.env.*
+
+# Addressables local build cache
+Assets/StreamingAssets/aa/
+
+# Keep third-party runtime, skip bundled demo clutter
+Assets/Photon/**/Demos/
+Assets/TextMesh Pro/Examples & Extras/

@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en-US
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 6fb8b5406cea24613803a648ad8cc168, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 915363848192
+    m_Localized: Connecting to servers...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142379129495552
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142433256988672
+    m_Localized: Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142488001044480
+    m_Localized: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142512516751360
+    m_Localized: Enter code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713779682729984
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713783281442816
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713784699117568
+    m_Localized: Workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713785978380288
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725228358459392
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725230967316480
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725232091389952
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726783262449664
+    m_Localized: RU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727103891824640
+    m_Localized: Change Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730046682619904
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763083516534784
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098989947576320
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099048114184192
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099083384086528
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478009272918016
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478801199456256
+    m_Localized: Nickname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486270634123264
+    m_Localized: Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561157042167808
+    m_Localized: Promocode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561949312638976
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261952
+    m_Localized: "T \u2014 Chat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261953
+    m_Localized: "Room code:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261954
+    m_Localized: Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261955
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261956
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261957
+    m_Localized: Log in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261958
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261959
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261960
+    m_Localized: Logging in...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261961
+    m_Localized: Registering...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261962
+    m_Localized: Account created
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261963
+    m_Localized: Logged in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261964
+    m_Localized: Server did not return a session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261965
+    m_Localized: AccountLoginUI is not configured
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261966
+    m_Localized: Login must be at least 3 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261967
+    m_Localized: Password must be at least 6 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261968
+    m_Localized: Server error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261969
+    m_Localized: Account already exists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261970
+    m_Localized: Account not found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261971
+    m_Localized: Wrong password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261972
+    m_Localized: Session expired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261973
+    m_Localized: Already used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261974
+    m_Localized: +1000 coins!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261975
+    m_Localized: Invalid code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261976
+    m_Localized: Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261977
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261978
+    m_Localized: Price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261979
+    m_Localized: Bought
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261980
+    m_Localized: Unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261981
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261982
+    m_Localized: Skin {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261983
+    m_Localized: No connection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261984
+    m_Localized: Connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261985
+    m_Localized: Connection error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261986
+    m_Localized: No room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261987
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261988
+    m_Localized: Guest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261989
+    m_Localized: Skin Workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261990
+    m_Localized: Choose three colors, preview the skin, then create it for your account.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261991
+    m_Localized: Body 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261992
+    m_Localized: Body 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261993
+    m_Localized: Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261994
+    m_Localized: Create - {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261995
+    m_Localized: Save changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261996
+    m_Localized: Not enough coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261997
+    m_Localized: Skin created
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261998
+    m_Localized: Skin saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261999
+    m_Localized: Skin selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262000
+    m_Localized: Workshop skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262001
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262002
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262003
+    m_Localized: Exit to menu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

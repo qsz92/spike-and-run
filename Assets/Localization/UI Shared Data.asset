@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 6fb8b5406cea24613803a648ad8cc168
+  m_Entries:
+  - m_Id: 915363848192
+    m_Key: status_connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142379129495552
+    m_Key: btn_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142433256988672
+    m_Key: btn_connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142488001044480
+    m_Key: btn_create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142512516751360
+    m_Key: input_code_placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713779682729984
+    m_Key: tab_main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713783281442816
+    m_Key: tab_inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713784699117568
+    m_Key: tab_workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713785978380288
+    m_Key: tab_settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725228358459392
+    m_Key: set_general
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725230967316480
+    m_Key: set_video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 725232091389952
+    m_Key: set_audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726783262449664
+    m_Key: btn_language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727103891824640
+    m_Key: change_lang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 730046682619904
+    m_Key: set_full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763083516534784
+    m_Key: set_ras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098989947576320
+    m_Key: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099048114184192
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099083384086528
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478009272918016
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1478801199456256
+    m_Key: name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486270634123264
+    m_Key: store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561157042167808
+    m_Key: code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1561949312638976
+    m_Key: apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261952
+    m_Key: chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261953
+    m_Key: room_code_prefix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261954
+    m_Key: account_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261955
+    m_Key: account_login_placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261956
+    m_Key: account_password_placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261957
+    m_Key: account_login_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261958
+    m_Key: account_register_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261959
+    m_Key: account_logout_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261960
+    m_Key: account_status_logging_in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261961
+    m_Key: account_status_registering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261962
+    m_Key: account_created
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261963
+    m_Key: account_login_done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261964
+    m_Key: account_server_no_session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261965
+    m_Key: account_ui_not_configured
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261966
+    m_Key: account_login_min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261967
+    m_Key: account_password_min
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261968
+    m_Key: account_server_error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261969
+    m_Key: account_exists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261970
+    m_Key: account_not_found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261971
+    m_Key: account_wrong_password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261972
+    m_Key: account_session_expired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261973
+    m_Key: promo_already_used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261974
+    m_Key: promo_reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261975
+    m_Key: promo_invalid_code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261976
+    m_Key: shop_selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261977
+    m_Key: shop_select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261978
+    m_Key: inventory_price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261979
+    m_Key: inventory_bought
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261980
+    m_Key: inventory_unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261981
+    m_Key: inventory_close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261982
+    m_Key: inventory_skin_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261983
+    m_Key: connection_no_connection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261984
+    m_Key: connection_connected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261985
+    m_Key: connection_error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261986
+    m_Key: room_no_room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261987
+    m_Key: shop_buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261988
+    m_Key: account_guest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261989
+    m_Key: workshop_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261990
+    m_Key: workshop_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261991
+    m_Key: workshop_body_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261992
+    m_Key: workshop_body_b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261993
+    m_Key: workshop_accent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261994
+    m_Key: workshop_create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261995
+    m_Key: workshop_save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261996
+    m_Key: workshop_not_enough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261997
+    m_Key: workshop_created
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261998
+    m_Key: workshop_saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195261999
+    m_Key: workshop_selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262000
+    m_Key: inventory_workshop_skin_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262001
+    m_Key: pause_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262002
+    m_Key: pause_resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3379345195262003
+    m_Key: pause_exit_menu
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6563146727151894528
+  references:
+    version: 2
+    RefIds:
+    - rid: 6563146727151894528
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1778242474592
